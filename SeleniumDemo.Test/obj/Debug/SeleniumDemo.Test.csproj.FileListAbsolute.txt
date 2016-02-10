@@ -1,0 +1,9 @@
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\obj\Debug\SeleniumDemo.Test.csprojResolveAssemblyReference.cache
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\bin\Debug\SeleniumDemo.Test.dll
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\bin\Debug\SeleniumDemo.Test.pdb
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\bin\Debug\nunit.framework.dll
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\bin\Debug\WebDriver.dll
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\bin\Debug\nunit.framework.xml
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\bin\Debug\WebDriver.xml
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\obj\Debug\SeleniumDemo.Test.dll
+F:\Projects\Selenium Demo\SeleniumDemo\SeleniumDemo.Test\obj\Debug\SeleniumDemo.Test.pdb
